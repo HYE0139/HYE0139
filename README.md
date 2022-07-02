@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=H.YeongEun's%20GitHub%20Profile&fontSize=50)
+
+
 ### Hi there 👋
 
 <!--
