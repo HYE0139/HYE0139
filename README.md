@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=H.YeongEun's%20GitHub%20&fontSize=50)
 
 
-### 🌱 풀스택 개발자가 되기 위해 공부 중인 ✨ 미니 개발자 ✨
+###  풀스택 개발자가 되기 위해 공부 중인  🌱미니 개발자🌱
 
+- 📫 Velog https://velog.io/@bww0139
 
 
 <!--
