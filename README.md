@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=H.YeongEun's%20GitHub%20&fontSize=50)
 
 
-### Hi there 👋
+### 🌱 풀스택 개발자가 되기 위해 공부 중인 ✨ 미니 개발자 ✨
+
+
 
 <!--
 **HYE0139/HYE0139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
